@@ -153,7 +153,7 @@
 						e.preventDefault();
 					}else if(tar.href.match(/\.css$/)){
 						//auto add skin
-						window.open('http://scmplayer.net/#skin='+tar.href,'_blank');
+						window.open('https://tutorialescom.github.io/eproductor.github.io/#skin='+tar.href,'_blank');
 						window.focus();
 						e.preventDefault();
 					}else if(filter(tar.href).indexOf(filter(location.host))==-1 ){
