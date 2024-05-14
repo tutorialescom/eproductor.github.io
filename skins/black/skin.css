@@ -1,6 +1,6 @@
 #player,#player a{ color:#ff0303; }
-#player{ background-color: black; }
-#player .mainImage{ background:url(main.png); }
+#player{ background-color: rgb(201, 7, 7); }
+#player .mainImage{ background-color: rgb(219, 0, 0); }
 
 #player #baseLeft{ width:188px; }
 #player #baseRight{ width:145px;}
