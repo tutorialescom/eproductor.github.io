@@ -5,7 +5,7 @@
 
 #player .item, #player .mainImage, #player .ui-slider-handle,
 #player #seekerSlider,#player #seeker
-{ height:25px; top:0; position:absolute; }
+{ height:50px; top:0; position:absolute; }
 #player .text, #player #seekerBase, #player #seekerBuffered, #player{ position:absolute; }
 
 #player a{ text-decoration:none; }
