@@ -1,30 +1,30 @@
-#player,#player a{ color:#ff0303; }
-#player{ background-color: rgb(201, 7, 7); }
-#player .mainImage{ background-color: rgb(219, 0, 0); }
+#player,#player a{ color:#333; }
+#player{ background:url(sizerAndVol.png); background-position: bottom !important; background-repeat: repeat-x !important; }
+#player .mainImage{ background:url(main.png); }
 
-#player #baseLeft{ width:188px; }
-#player #baseRight{ width:145px;}
-#player .button{  width:22px; }
-#player #pause{ left:32px; }
+#player #baseLeft{ width:1880px; }
+#player #baseRight{ width:140px;}
+#player .button{  width:220px; }
+#player #pause{ left:320px; }
 #player #play{ background:url(playBtn.png);left:31px; }
-#player #previous{ left:8px; }
-#player #next{ left:55px; }
-#player #title{ left:90px;}
-#player #tooltip{ right:196px; }
-#player #timer{ right:120px;  }
-#player #list{ right:5px; }
+#player #previous{ left:80px; }
+#player #next{ left:550px; }
+#player #title{ left:900px;}
+#player #tooltip{ right:1960px; }
+#player #timer{ right:1200px;  }
+#player #list{ right:50px; }
 
-#player #seeker{ right:320px; }
-#player #seekerBase{ border-color:#ff0303; }
-#player #seekerBuffered{ background-color:#ff0303; }
-#player #seekerSliderBase{ background-color:#ff0303; }
+#player #seeker{ right:3200px; }
+#player #seekerBase{ border-color:#666; }
+#player #seekerBuffered{ background-color:#DDD; }
+#player #seekerSliderBase{ background-color:#666; }
 
-#player #volume{ width:70px; right:33px; }
+#player #volume{ width:700px; right:330px; }
 #player #volumeSlider{ width:14px; background:url(sizerAndVol.png); }
 
-#playlist,#playlist .module,#playlist h3{ border-color:#ff0303;}
-#playlist .module{  color:#ff0303; background-color:white; }
-#playlist h3{ color:#ff0303; background-color:#ff0303;  }
+#playlist,#playlist .module,#playlist h3{ border-color:#333;}
+#playlist .module{  color:#333; background-color:white; }
+#playlist h3{ color:#fff; background-color:#333;  }
 #playlist .even{background-color:white;}
-#playlist .odd{ background-color:#ff0303;}
-#playlist .focus{ background-color:#ff0303; color:#ff0303;}
+#playlist .odd{ background-color:#eee;}
+#playlist .focus{ background-color:#666; color:#FFF;}
